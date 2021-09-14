@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafetyPayTest", "SafetyPayTest\SafetyPayTest.csproj", "{C7C7C7CB-A512-437D-97C4-8C659EB0E7BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7C7C7CB-A512-437D-97C4-8C659EB0E7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C7C7CB-A512-437D-97C4-8C659EB0E7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C7C7CB-A512-437D-97C4-8C659EB0E7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C7C7CB-A512-437D-97C4-8C659EB0E7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A03FC8E-B97D-4183-93EB-EB09A51B56DC}
+	EndGlobalSection
+EndGlobal
